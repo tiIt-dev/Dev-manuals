@@ -1,2 +1,12 @@
-# Dev-manuals
-Here I post helpful IT manuals. They can be used as references, for example, in README
+# ItManuals
+- **Git**
+  - [Aliases](git/aliases.md)
+  - [Commit style](git/commits.md)
+- **Python:**
+  - [Venv](python/venv.md)
+- **Linux:**
+  - [Debian Setup](linux/debian/setup.md)
+  - [Ssh](linux/debian/ssh.md)
+  - [WireGuard](linux/wireguard.md)
+  - [Services Manager (systemd)](linux/systemd.md)
+  - [Deploy bots](linux/deploy_tg_bot.md)
